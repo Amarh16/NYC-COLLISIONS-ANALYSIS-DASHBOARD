@@ -14,6 +14,13 @@ The findings reveal clear temporal patterns, with accident volumes peaking durin
 
 The analysis provides actionable insights that can support traffic management authorities, urban planners, and public safety agencies in improving road safety and reducing accident rates.
 
+## Methodology Note:
+
+The findings presented in this analysis are based on reported collision records contained within the NYC Traffic Collisions dataset. The dashboard focuses on identifying patterns, trends, and relationships within the available data rather than establishing direct causation. Factors such as reporting inconsistencies, missing contributing-factor information, and external conditions not captured within the dataset may influence the results. Therefore, the insights should be interpreted as indicators of potential risk areas and accident patterns that support data-driven decision-making rather than definitive explanations of collision causes.
+
+
+
+
 ## 1. Key Performance Indicator (KPI)
 
 | KPI | Value |
